@@ -1,14 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3395c77b-3a49-42b8-82a2-fed56e0f1980" name="Changes" comment="" />
+    <list default="true" id="3395c77b-3a49-42b8-82a2-fed56e0f1980" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demopro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gfg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradeop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leftshift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetailOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Standard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Studentdetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Studentmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail.java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project.java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examplepro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examplepro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExerciseFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palandrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palandrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Relational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Relational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Retail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ir1pQgqbx5mRWUVBPVa7cOEnT9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +62,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ECPLD087\IdeaProjects\retail.java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Retail">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
+      <module name="project.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
+      <module name="project.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gfg" />
+      <module name="project.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Retail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Retail" />
+      <module name="project.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetailOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RetailOne" />
+      <module name="project.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Retail" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.RetailOne" />
+        <item itemvalue="Application.Gfg" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +132,52 @@
       <updated>1670925077637</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Examplepro.java</url>
+          <line>1</line>
+          <properties class="Examplepro" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Fibonacci.java</url>
+          <line>1</line>
+          <properties class="Fibonacci" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SortedDemo.java</url>
+          <line>2</line>
+          <properties class="SortedDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Retail.java</url>
+          <line>2</line>
+          <properties class="Retail" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/JDK/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Runnable.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,12 +1,13 @@
 import java.util.Scanner;
-public class Retail {
+
+public class RetailOne {
     public static void main(String... args) {
-        Scanner s  = new Scanner(System.in);
+        Scanner s = new Scanner(System.in);
         System.out.println("enter the product number");
-        int productNum = s.nextInt();
+        int productnum = s.nextInt();
         int quansold = s.nextInt();
-        Retail st = new Retail();
-        st.productprice(productNum, quansold);
+        RetailOne st = new RetailOne();
+        st.productprice(productnum, quansold);
     }
 
     public void productprice(int productnum, int quansold) {
@@ -14,12 +15,10 @@ public class Retail {
 
         switch (productnum) {
             case 1:
-                retprice = quansold * 22.50;
+                retprice = productnum * 22.50;
                 break;
-            case 2:
-                retprice = quansold * 44.50;
             case 3:
-                retprice = quansold * 9.98;
+                retprice = productnum * 44.50;
                 break;
             default:
                 System.out.println("enter wrong productnum");
